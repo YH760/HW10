@@ -1,0 +1,21 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "Temporary",
+  "Description": "수동으로 만든 테스트용 플러그인",
+  "Category": "Other",
+  "CreatedBy": "",
+  "CreatedByURL": "",
+  "EnabledByDefault": true,
+  "CanContainContent": true,
+  "IsBetaVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "Temporary",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
